@@ -6,3 +6,5 @@ The current project contains my own implementation of various containers using d
   * Container **Multi Map** implemented using a **hash table**
   * Container **Sorted Bag** implemented using a **binary search tree**
   * Container **Queue** implemented using a **circular dynamic array**
+
+ *Each container functionality is tested and each method provides specifications and time complexity.*
