@@ -1,0 +1,3 @@
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/cmake-build-debug/CMakeFiles/Assignment_2.dir

@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/App.cpp
+iostream
+-
+Matrix.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/Matrix.h
+ExtendedTest.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/ExtendedTest.h
+ShortTest.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/ShortTest.h
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/ExtendedTest.cpp
+assert.h
+-
+Matrix.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/Matrix.h
+ExtendedTest.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/ExtendedTest.h
+iostream
+-
+exception
+-
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/ExtendedTest.h
+ExtendedTest.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/ExtendedTest.h
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/Matrix.cpp
+Matrix.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/Matrix.h
+exception
+-
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/Matrix.h
+tuple
+-
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/ShortTest.cpp
+assert.h
+-
+Matrix.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/Matrix.h
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/ShortTest.h
+

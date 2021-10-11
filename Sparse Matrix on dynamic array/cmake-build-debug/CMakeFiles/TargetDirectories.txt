@@ -1,0 +1,3 @@
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 1 - Sparse Matrix on dynamic array/cmake-build-debug/CMakeFiles/Matrix.dir

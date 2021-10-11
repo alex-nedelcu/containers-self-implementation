@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/App.cpp
+ExtendedTest.h
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/ExtendedTest.h
+ShortTest.h
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/ShortTest.h
+Map.h
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/Map.h
+iostream
+-
+
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/ExtendedTest.cpp
+ExtendedTest.h
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/ExtendedTest.h
+Map.h
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/Map.h
+MapIterator.h
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/MapIterator.h
+assert.h
+-
+iostream
+-
+
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/ExtendedTest.h
+
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/Map.cpp
+Map.h
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/Map.h
+MapIterator.h
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/MapIterator.h
+
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/Map.h
+utility
+-
+
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/MapIterator.cpp
+MapIterator.h
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/MapIterator.h
+exception
+-
+
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/MapIterator.h
+Map.h
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/Map.h
+
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/ShortTest.cpp
+ShortTest.h
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/ShortTest.h
+cassert
+-
+Map.h
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/Map.h
+MapIterator.h
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/MapIterator.h
+iostream
+-
+
+/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/ShortTest.h
+

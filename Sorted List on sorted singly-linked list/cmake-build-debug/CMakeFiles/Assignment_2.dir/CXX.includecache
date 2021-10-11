@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/App.cpp
+iostream
+-
+ShortTest.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/ShortTest.h
+ExtendedTest.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/ExtendedTest.h
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/ExtendedTest.cpp
+ExtendedTest.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/ExtendedTest.h
+assert.h
+-
+cstdlib
+-
+vector
+-
+iostream
+-
+ListIterator.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/ListIterator.h
+SortedIteratedList.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/SortedIteratedList.h
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/ExtendedTest.h
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/ListIterator.cpp
+ListIterator.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/ListIterator.h
+SortedIteratedList.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/SortedIteratedList.h
+exception
+-
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/ListIterator.h
+SortedIteratedList.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/SortedIteratedList.h
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/ShortTest.cpp
+assert.h
+-
+SortedIteratedList.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/SortedIteratedList.h
+ListIterator.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/ListIterator.h
+exception
+-
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/ShortTest.h
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/SortedIteratedList.cpp
+ListIterator.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/ListIterator.h
+SortedIteratedList.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/SortedIteratedList.h
+iostream
+-
+exception
+-
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 2 - Sorted List on SSLL/SortedIteratedList.h
+

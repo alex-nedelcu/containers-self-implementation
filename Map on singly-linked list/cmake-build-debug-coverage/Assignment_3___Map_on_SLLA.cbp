@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment_3___Map_on_SLLA"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment_3___Map_on_SLLA">
+				<Option output="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/cmake-build-debug-coverage/Assignment_3___Map_on_SLLA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/."/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 Assignment_3___Map_on_SLLA"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment_3___Map_on_SLLA/fast">
+				<Option output="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/cmake-build-debug-coverage/Assignment_3___Map_on_SLLA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/."/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 Assignment_3___Map_on_SLLA/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexnedelcu/Desktop/Uni/Year\ 1/DSA/Lab\ assignments/Map\ on\ SLLA/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/App.cpp">
+			<Option target="Assignment_3___Map_on_SLLA"/>
+		</Unit>
+		<Unit filename="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/ExtendedTest.cpp">
+			<Option target="Assignment_3___Map_on_SLLA"/>
+		</Unit>
+		<Unit filename="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/ExtendedTest.h">
+			<Option target="Assignment_3___Map_on_SLLA"/>
+		</Unit>
+		<Unit filename="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/Map.cpp">
+			<Option target="Assignment_3___Map_on_SLLA"/>
+		</Unit>
+		<Unit filename="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/Map.h">
+			<Option target="Assignment_3___Map_on_SLLA"/>
+		</Unit>
+		<Unit filename="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/MapIterator.cpp">
+			<Option target="Assignment_3___Map_on_SLLA"/>
+		</Unit>
+		<Unit filename="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/MapIterator.h">
+			<Option target="Assignment_3___Map_on_SLLA"/>
+		</Unit>
+		<Unit filename="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/ShortTest.cpp">
+			<Option target="Assignment_3___Map_on_SLLA"/>
+		</Unit>
+		<Unit filename="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/ShortTest.h">
+			<Option target="Assignment_3___Map_on_SLLA"/>
+		</Unit>
+		<Unit filename="/Users/alexnedelcu/Desktop/Uni/Year 1/DSA/Lab assignments/Map on SLLA/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

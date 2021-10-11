@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/ExtendedTest.cpp
+ShortTest.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/ShortTest.h
+SortedBag.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/SortedBag.h
+SortedBagIterator.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/SortedBagIterator.h
+cassert
+-
+iostream
+-
+exception
+-
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/ShortTest.cpp
+ShortTest.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/ShortTest.h
+SortedBag.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/SortedBag.h
+SortedBagIterator.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/SortedBagIterator.h
+cassert
+-
+iostream
+-
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/ShortTest.h
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/SortedBag.cpp
+SortedBag.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/SortedBag.h
+SortedBagIterator.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/SortedBagIterator.h
+exception
+-
+iostream
+-
+cmath
+-
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/SortedBag.h
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/SortedBagIterator.cpp
+SortedBagIterator.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/SortedBagIterator.h
+SortedBag.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/SortedBag.h
+exception
+-
+
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/SortedBagIterator.h
+SortedBag.h
+/Users/alexnedelcu/Desktop/Uni/DSA/Lab assignments/Assignment 5 - SortedBag on Binary Search Tree/SortedBag.h
+
